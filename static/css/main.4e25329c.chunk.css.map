@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/List/List.css"],"names":[],"mappings":"AAAA,QACI,aAAc,CACd,cACJ,CACA,cACC,aAAc,CACd,cACD","file":"main.4e25329c.chunk.css","sourcesContent":[".delete{\r\n    color: #DA0037;\r\n    margin-top: 5px;\r\n}\r\n.delete:hover{\r\n color: #FF616D;\r\n cursor: pointer;\r\n}"]}
