@@ -9,7 +9,7 @@ function List(props) {
         <div
           style={{ textDecoration: props.value.status ? "line-through" : "" }}
         >
-          <li>
+          <li className="list__items">
             {props.value.data}
             <Checkbox
               checked={props.value.status}
