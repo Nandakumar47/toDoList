@@ -6,3 +6,7 @@
  color: #FF616D;
  cursor: pointer;
 }
+.list__items{
+    display:flex;
+    align-item:center;
+}
